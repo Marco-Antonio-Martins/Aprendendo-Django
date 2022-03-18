@@ -1,0 +1,8 @@
+LINK: https://www.youtube.com/watch?v=Dzuiy-JNi-E&t=2810s
+
+1- Abre o CMD na pasta e usa o comando "python -m venv venv"
+2- "venv\Scripts\activate"
+3- "pip install django"
+4- "django-admin startproject tutorialdjango"
+5- "cd tutorialdjango"
+6- "code ."
