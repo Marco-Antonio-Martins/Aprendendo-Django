@@ -6,3 +6,6 @@ LINK: https://www.youtube.com/watch?v=Dzuiy-JNi-E&t=2810s
 4- "django-admin startproject tutorialdjango"
 5- "cd tutorialdjango"
 6- "code ."
+
+7- "python .\manage.py startapp blog"
+OBS.: Parei o vídeo no min 41:30
